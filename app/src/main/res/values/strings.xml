@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string-array name="tableau_devises">
+        <item>CHF</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>USD</item>
+    </string-array>
+    <string-array name="tableau_devises_libelles">
+        <item>CHF : franc suisse</item>
+        <item>EUR : euro</item>
+        <item>GBP : livre sterling</item>
+        <item>USD : dollar américain</item>
+    </string-array>
+    <string name="de">From</string>
+    <string name="devises">Currencies</string>
+    <string name="je_veux_convertir">I want to convert</string>
+    <string name="convertir">Convert</string>
+    <string name="montant">amount</string>
+    <string name="pas_montant">Enter an amount</string>
+    <string name="menu_settings">settings</string>
+    <string name="a">To</string>
+    <string name="default_amount" translatable="false">1</string>
+    <string name="toast_conversion_ok_text">Successful conversion</string>
+    <string name="toast_conversion_ok_rate_text">with rate</string>
+    <string name="title_activity_settings">Settings</string>
+    <string-array name="conversion_titles">
+        <item>USD -> EUR</item>
+        <item>USD -> CHF</item>
+        <item>CHF -> USD</item>
+        <item>CHF -> EUR</item>
+        <item>EUR -> GBP</item>
+        <item>USD -> GBP</item>
+        <item>GBP -> USD</item>
+        <item>CHF -> GBP</item>
+        <item>GBP -> EUR</item>
+        <item>GBP -> CHF</item>
+        <item>EUR -> USD</item>
+        <item>EUR -> CHF</item>
+    </string-array>
+    <string name="accept">Yes</string>
+    <string name="decline">No</string>
+    <string name="chosen_rate">Chosen rate</string>
+    <string name="mod_button_text">Modify</string>
+    <string name="failure_new_rate">Oops, it seems the new rate is the same as the old one ...</string>
+    <string name="success_new_rate">Rate modified</string>
+    <string name="toast_conversion_ko">Error converting</string>
+    <string name="set_rate_activity_label">Change rate</string>
+</resources>

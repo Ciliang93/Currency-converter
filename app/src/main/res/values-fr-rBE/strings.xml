@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertisseur de devises</string>
+    <string name="de">De</string>
+    <string name="a">À</string>
+    <string name="devises">Devises</string>
+    <string name="je_veux_convertir">Je veux convertir</string>
+    <string name="convertir">Convertir</string>
+    <string name="montant">montant</string>
+    <string name="pas_montant">Introduisez un montant.</string>
+    <string name="menu_settings">paramètres</string>
+    <string name="toast_conversion_ok_text">Conversion réussie</string>
+    <string name="toast_conversion_ok_rate_text">avec le taux</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="accept">Oui</string>
+    <string name="decline">Non</string>
+    <string name="chosen_rate">Taux choisi</string>
+    <string name="mod_button_text">Modifier</string>
+    <string name="failure_new_rate">Oups, il semblerait que le nouveau taux soit identique à l\'ancien</string>
+    <string name="success_new_rate">Taux modifié</string>
+    <string name="toast_conversion_ko">Erreur de conversion</string>
+    <string name="set_rate_activity_label">Changer le taux</string>
+</resources>
