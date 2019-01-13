@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertidor de moneda</string>
+    <string name="de">Desde</string>
+    <string name="a">A</string>
+    <string name="devises">Monedas</string>
+    <string name="je_veux_convertir">Quiero convertir</string>
+    <string name="convertir">Convertir</string>
+    <string name="montant">cantidad</string>
+    <string name="pas_montant">Ingrese una cantidad</string>
+    <string name="menu_settings">ajustes</string>
+    <string name="toast_conversion_ok_text">Conversión exitosa</string>
+    <string name="toast_conversion_ok_rate_text">con la tasa</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="accept">Si</string>
+    <string name="decline">No</string>
+    <string name="chosen_rate">Tasa elegida</string>
+    <string name="mod_button_text">Editar</string>
+    <string name="failure_new_rate">Parece que la nueva tasa es idéntica a la anterior</string>
+    <string name="success_new_rate">Tasa modificada</string>
+    <string name="toast_conversion_ko">Error de conversión</string>
+    <string-array name="tableau_devises_libelles">
+        <item>CHF : Franco suizo</item>
+        <item>EUR : Euro</item>
+        <item>GBP : Libra esterlina</item>
+        <item>USD : Dólar estadounidense</item>
+    </string-array>
+    <string name="set_rate_activity_label">Cambiar la tasa</string>
+</resources>

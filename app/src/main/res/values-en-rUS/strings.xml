@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="de">From</string>
+    <string name="a">To</string>
+    <string name="devises">Currencies</string>
+    <string name="je_veux_convertir">I want to convert</string>
+    <string name="convertir">Convert</string>
+    <string name="montant">amount</string>
+    <string name="pas_montant">Enter an amount</string>
+    <string name="menu_settings">settings</string>
+    <string name="toast_conversion_ok_text">Successful conversion</string>
+    <string name="toast_conversion_ok_rate_text">with rate</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="accept">Yes</string>
+    <string name="decline">No</string>
+    <string name="chosen_rate">Chosen rate</string>
+    <string name="mod_button_text">Modify</string>
+    <string name="failure_new_rate">Oops, it seems the new rate is the same as the old one ...</string>
+    <string name="success_new_rate">Rate modified</string>
+    <string name="toast_conversion_ko">Error converting</string>
+    <string name="set_rate_activity_label">Change rate</string>
+    <string-array name="tableau_devises_libelles">
+        <item>CHF : Swiss franc</item>
+        <item>EUR : Euro</item>
+        <item>GBP : British pound</item>
+        <item>USD : US Dollar</item>
+    </string-array>
+</resources>
